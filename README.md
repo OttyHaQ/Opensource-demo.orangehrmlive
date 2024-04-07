@@ -1,6 +1,8 @@
 This guide provides steps to execute tests for the Cypress project.
 
-Prerequisites: • A GitHub account (if forking) • Node.js and npm installed on your machine (check with node -v, and npm -v commands)
+Prerequisites: 
+• A GitHub account (if forking) 
+• Node.js and npm installed on your machine (check by running node -v, and npm -v commands on your terminal)
 
 Steps:
 
