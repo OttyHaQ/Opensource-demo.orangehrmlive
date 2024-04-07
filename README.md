@@ -6,10 +6,10 @@ Steps:
 
 Fork or Clone the Repository to your local machine: If you haven't already, fork this repository on GitHub or clone it using HTTPS.
 
-   https://github.com/OttyHaQ/SEAMLESS_ASSESSMENT.git
+      https://github.com/OttyHaQ/SEAMLESS_ASSESSMENT.git
 If familiar with git, you can use
 
-   git clone https://github.com/OttyHaQ/SEAMLESS_ASSESSMENT.git
+      git clone https://github.com/OttyHaQ/SEAMLESS_ASSESSMENT.git
 Open the Project in an IDE (VSCode preferably):
 
 Install Dependencies: Open a terminal window and navigate to your local copy of the repository. Run the following command to install the project's dependencies:
