@@ -1,0 +1,15 @@
+{
+    "admin": "#app > div.oxd-layout > div.oxd-layout-navigation > aside > nav > div.oxd-sidepanel-body > ul > li:nth-child(1) > a > span",
+    "addBtn": "button[class='oxd-button oxd-button--medium oxd-button--secondary']",
+    "searchUsernameField": ":nth-child(2) > .oxd-input",
+    "userName": "Khubie",
+    "newUserName": "BigShaun",
+    "userRoleField": ":nth-child(2) > .oxd-input-group > :nth-child(2) > .oxd-select-wrapper > .oxd-select-text > .oxd-select-text--after > .oxd-icon",
+    "adminUser": ".oxd-select-dropdown > :nth-child(2)",
+    "essUser": ".oxd-select-dropdown > :nth-child(3)",
+    "seachBtn": ".oxd-form-actions > .oxd-button--secondary",
+    "selectUser": ":nth-child(1) > .oxd-table-row > :nth-child(1) > .oxd-table-card-cell-checkbox > .oxd-checkbox-wrapper > label > .oxd-checkbox-input > .oxd-icon",
+    "deleteUserBtn": ".orangehrm-horizontal-padding > div > .oxd-button",
+    "confirmDeleteBtn": ".orangehrm-modal-footer > .oxd-button--label-danger",
+    "confirmationToast": ".oxd-toast-content"
+}

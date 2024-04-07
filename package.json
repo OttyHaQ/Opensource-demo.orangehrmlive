@@ -1,0 +1,17 @@
+{
+  "name": "seamless",
+  "version": "1.0.0",
+  "description": "Assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.7.2"
+  },
+  "dependencies": {
+    "cypress-fill-command": "^1.0.2"
+  }
+}

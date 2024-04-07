@@ -1,0 +1,7 @@
+{
+    "editIcon": ":nth-child(1) > .oxd-table-row > :nth-child(6) > .oxd-table-cell-actions > :nth-child(2)",
+    "userNameField": "#app > div.oxd-layout > div.oxd-layout-container > div.oxd-layout-context > div > div > form > div.oxd-form-row > div > div:nth-child(4) > div > div:nth-child(2) > input",
+    "newUserName": "BigShaun",
+    "saveBtn": "button[type='submit']",
+    "alert": ".oxd-toast-content"
+}
