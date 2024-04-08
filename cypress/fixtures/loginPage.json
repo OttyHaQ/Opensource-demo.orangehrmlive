@@ -1,7 +1,7 @@
 {
-  "username_Field": "input[placeholder='Username']",
-  "password_Field": "input[placeholder='Password']",
+  "username_Field": ":nth-child(2) > .oxd-input-group > :nth-child(2) > .oxd-input",
+  "password_Field": ":nth-child(3) > .oxd-input-group > :nth-child(2) > .oxd-input",
   "username": "Admin",
   "password": "admin123",
-  "loginBtn": "button[type='submit']"
+  "loginBtn": ".oxd-button"
 }
